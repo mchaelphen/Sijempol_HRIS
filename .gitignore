@@ -29,7 +29,3 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
-
-lu commit dah
-kasih messsage biasanya kalo awal initial commit
-
